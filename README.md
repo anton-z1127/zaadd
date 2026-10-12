@@ -1,3 +1,27 @@
+# 半干面质量与卫生控制：五个案例及回答
+
+使用用户提供的 PPT 背景模板，保留原双品牌标识与绿色页眉。五个案例各一页，共五页，没有额外封面。文字、流程和对照表可编辑；已完成文件结构校验、内容检查及逐页渲染检查。
+
+- [下载五页 PPT](five-cases/presentation.pptx)
+- [查看 PDF](five-cases/presentation.pdf)
+- [阅读完整回答文字版](five-cases/answers.md)
+
+打开 PPT 文件页面，点击右上角 **Download raw file**（下载图标）保存。
+
+## 五页案例预览
+
+![案例1：同批平均水分24%，少数包两个月后发酸](five-cases/slide-1.jpg)
+
+![案例2：同配方同包装，两批表现不同](five-cases/slide-2.jpg)
+
+![案例3：白布清洗消毒后的ATP与微生物验证](five-cases/slide-3.jpg)
+
+![案例4：设定温度与产品实际受热](five-cases/slide-4.jpg)
+
+![案例5：酸味、乳酸乙酸、配方与其他变化](five-cases/slide-5.jpg)
+
+## 此前的版本
+
 # 最新：三页模板版草稿
 
 使用用户提供的背景模板，保留双品牌标识与绿色页眉，页面顺序为产品设想、技术路线及优劣势、两条路线的引用参考。
