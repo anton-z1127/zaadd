@@ -1,3 +1,16 @@
+# 最新：半干面质构与微观结构｜论文图解
+
+13页，整理赵恬田论文中的6幅图、7张表，附原图包和来源索引，沿用绿色风格。
+
+- [在线查看13页预览](texture-microstructure/README.md#逐页预览)
+- [下载PPT](texture-microstructure/presentation.pptx)
+- [查看PDF](texture-microstructure/presentation.pdf)
+- [下载原图压缩包](texture-microstructure/article-figures.zip)
+
+打开文件页面，点击 **Download raw file**（下载图标）保存。
+
+## 此前交付内容
+
 # 最新：原料验收与和面控制要点｜统一风格版
 
 参考《核心控制-水分活度-Aw》的视觉风格，对原料控制文件全部九页逐页重排。字体、配色、分层要点、右侧图解与底部结论已统一，原稿全文保存在演讲者备注中。
