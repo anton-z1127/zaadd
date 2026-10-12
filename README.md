@@ -1,3 +1,16 @@
+# 最新：半干面微观结构与口感对应版
+
+新版9页，每页配对结构证据、同组宏观数据与口感解读，沿用绿色风格，已删除包装比较。
+
+- [在线查看9页预览](texture-mouthfeel/README.md#逐页预览)
+- [下载新版 PPT](texture-mouthfeel/presentation.pptx)
+- [查看新版 PDF](texture-mouthfeel/presentation.pdf)
+- [下载新版原图包](texture-mouthfeel/article-figures.zip)
+
+打开文件页面，点击 **Download raw file**（下载图标）保存。
+
+## 此前交付内容
+
 # 最新：半干面质构与微观结构｜论文图解
 
 13页，整理赵恬田论文中的6幅图、7张表，附原图包和来源索引，沿用绿色风格。
