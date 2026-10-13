@@ -1,11 +1,11 @@
-# 食品工厂灭菌消毒培训｜24页排版优化版
+# 食品工厂灭菌消毒培训｜24页重新排版版（V2）
 
-保留原有文字、图表和品牌标识，统一标题、字号、配色与间距，优化分栏和图表布局。
+按每页内容重新规划布局和文字空间；工艺页采用纵向步骤，密集页调整分栏与卡片高度。保留原有文字、图表和品牌标识。全部24页已导出检查，未检测到文字超出文本框，原文字内容核对完整。
 
-- [下载 PPT](sterilization-training/presentation.pptx)
-- [查看 PDF](sterilization-training/presentation.pdf)
+- [下载新版 PPT](sterilization-training/presentation-v2.pptx)
+- [查看新版 PDF](sterilization-training/presentation-v2.pdf)
 
-打开文件页后，点击 **Download raw file**（下载图标）保存。
+打开文件页后点击 **Download raw file** 下载。
 
 ## 此前交付内容
 
