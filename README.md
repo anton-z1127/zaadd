@@ -1,3 +1,14 @@
+# 食品工厂灭菌消毒培训｜24页排版优化版
+
+保留原有文字、图表和品牌标识，统一标题、字号、配色与间距，优化分栏和图表布局。
+
+- [下载 PPT](sterilization-training/presentation.pptx)
+- [查看 PDF](sterilization-training/presentation.pdf)
+
+打开文件页后，点击 **Download raw file**（下载图标）保存。
+
+## 此前交付内容
+
 # 最新：鲜面条劣变临界条件｜中文图解
 
 9页，覆盖新论文全部6幅图，包含中文介绍、实验设计、结果解释与生产启示，沿用绿色风格。
