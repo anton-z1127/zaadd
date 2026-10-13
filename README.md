@@ -1,3 +1,16 @@
+# 最新：鲜面条劣变临界条件｜中文图解
+
+9页，覆盖新论文全部6幅图，包含中文介绍、实验设计、结果解释与生产启示，沿用绿色风格。
+
+- [在线查看9页预览](critical-conditions/README.md#逐页预览)
+- [下载 PPT](critical-conditions/presentation.pptx)
+- [查看 PDF](critical-conditions/presentation.pdf)
+- [下载6幅原图包](critical-conditions/article-figures.zip)
+
+打开文件页面，点击 **Download raw file**（下载图标）保存。
+
+## 此前交付内容
+
 # 最新：半干面微观结构与口感对应版
 
 新版9页，每页配对结构证据、同组宏观数据与口感解读，沿用绿色风格，已删除包装比较。
