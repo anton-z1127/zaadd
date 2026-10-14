@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>蒙牛产业数据库｜产业全景与投资研究</title>
+  </head>
+  <body>
+    <outline text="蒙牛产业数据库（公开资料待联网补全）">
+      <outline text="00_导航与数据库" />
+      <outline text="01_用户提供资料" />
+      <outline text="02_集团与财务">
+        <outline text="蒙牛集团｜全产业链">
+          <outline text="关系类型：集团" />
+          <outline text="材料摘要：作为基金产业协同主体；材料提及一体两翼战略" />
+          <outline text="下一步核验：以年报核对战略、收入分部、股权与关联交易" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+      </outline>
+      <outline text="03_产业基金与投资">
+        <outline text="蒙牛产业基金｜产业投资">
+          <outline text="关系类型：基金" />
+          <outline text="材料摘要：材料描述CVC定位；不能据此确认基金已设立或备案" />
+          <outline text="下一步核验：核验基金管理人登记、基金备案、规模、LP、期限、退出机制" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+      </outline>
+      <outline text="04_产业链与生态企业">
+        <outline text="现代牧业｜奶源与牧场">
+          <outline text="关系类型：上市产业链平台" />
+          <outline text="材料摘要：材料列为上游生态平台，提及1117.HK" />
+          <outline text="下一步核验：核验持股、牛群规模、富源整合及经营指标" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="中国圣牧｜有机奶源">
+          <outline text="关系类型：上市产业链平台" />
+          <outline text="材料摘要：材料列为有机奶牛养殖平台，提及1432.HK" />
+          <outline text="下一步核验：核验蒙牛持股、有机认证、经营及关联交易" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="富源牧业｜奶源">
+          <outline text="关系类型：产业链企业" />
+          <outline text="材料摘要：材料称2020年整合到现代牧业" />
+          <outline text="下一步核验：核验交易日期、主体和整合范围" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="赛科星｜种业牧业草业">
+          <outline text="关系类型：产业链企业" />
+          <outline text="材料摘要：材料列为上游产业链企业" />
+          <outline text="下一步核验：核验股权关系与实际业务" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="爱养牛｜养殖服务">
+          <outline text="关系类型：产业链平台" />
+          <outline text="材料摘要：材料描述养殖电商、物流、科技及金融服务" />
+          <outline text="下一步核验：核验股东、平台经营和业务边界" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="天仙配供应链｜常温物流">
+          <outline text="关系类型：产业链企业" />
+          <outline text="材料摘要：材料称2023年收入约10亿元；未独立核验" />
+          <outline text="下一步核验：核验营收口径、客户集中度与股权" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="云豹｜冷链物流">
+          <outline text="关系类型：产业链企业" />
+          <outline text="材料摘要：材料列为上海冷链运输平台" />
+          <outline text="下一步核验：核验具体法人、关联关系及资质" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="每日鲜语｜高端鲜奶">
+          <outline text="关系类型：品牌" />
+          <outline text="材料摘要：材料称2018年成立品牌" />
+          <outline text="下一步核验：核验品牌归属、产品与渠道" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="简爱｜低温乳品">
+          <outline text="关系类型：生态联系" />
+          <outline text="材料摘要：材料称创始人来自蒙牛体系并保持沟通；不代表蒙牛持股" />
+          <outline text="下一步核验：不得把人员背景关系等同股权投资" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="艾雪集团｜海外冰淇淋">
+          <outline text="关系类型：生态企业" />
+          <outline text="材料摘要：材料称2022年蒙牛完成增资，并提及上市计划" />
+          <outline text="下一步核验：核验增资与截至查询日上市状态" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="每日的菌｜益生菌消费品牌">
+          <outline text="关系类型：创业生态" />
+          <outline text="材料摘要：材料称前蒙牛产品经理创业及近亿元年收入" />
+          <outline text="下一步核验：核验主体、收入和股权；不可直接认定为被投企业" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="盖是英雄｜营养饮料">
+          <outline text="关系类型：创业生态" />
+          <outline text="材料摘要：材料称蒙牛员工创业项目" />
+          <outline text="下一步核验：核验主体和股权；不可直接认定为基金被投企业" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+      </outline>
+      <outline text="05_重点项目">
+        <outline text="弈柯莱｜合成生物">
+          <outline text="关系类型：材料列举投资案例" />
+          <outline text="材料摘要：材料第19页写弈科莱，第20页写弈柯莱，须核对同一主体" />
+          <outline text="下一步核验：核验Pre-IPO交易、金额、持股、知识产权及HMO合作" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="合生科技｜合成生物">
+          <outline text="关系类型：材料列举投资案例" />
+          <outline text="材料摘要：材料称2023年A轮投资" />
+          <outline text="下一步核验：核验融资公告、投资主体、发酵产品及量产" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="瑞派宠物｜宠物医疗">
+          <outline text="关系类型：材料称已退出案例" />
+          <outline text="材料摘要：材料称2022年Pre-IPO，项目已退出" />
+          <outline text="下一步核验：核验投资及退出日期、交易主体与对价" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="迈胜｜运动营养">
+          <outline text="关系类型：储备/内部孵化项目" />
+          <outline text="材料摘要：材料称近亿元A轮；提及高瓴创投、仙乐健康及蒙牛" />
+          <outline text="下一步核验：核验融资交割、投资主体、产品功效证据及渠道收入" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="虹摹生物｜HMO与合成生物">
+          <outline text="关系类型：储备/内部孵化项目" />
+          <outline text="材料摘要：材料称2024年9月A轮过亿元；列2-FL、3-SL、LnNT" />
+          <outline text="下一步核验：核验公告对应产品、生产菌种及使用范围；核验美国GRAS通知编号" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="特康瑞｜特殊医学用途配方食品">
+          <outline text="关系类型：储备/内部孵化项目" />
+          <outline text="材料摘要：材料第25页关于2026拿证与上市为预测" />
+          <outline text="下一步核验：逐产品核验注册证号、获批日期、适用人群、生产主体" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+        <outline text="AG｜精准发酵蛋白">
+          <outline text="关系类型：储备/联合孵化讨论" />
+          <outline text="材料摘要：材料称与蒙牛探讨合资；未说明已签约" />
+          <outline text="下一步核验：先识别法人；self-GRAS不等于FDA批准；核验订单、专利和合资进展" />
+          <outline text="核验状态：用户材料记载；未独立核验" />
+        </outline>
+      </outline>
+      <outline text="06_赛道与技术">
+        <outline text="合成生物与HMO">
+          <outline text="菌株→发酵→分离纯化→原料→乳品配方" />
+          <outline text="产品批准范围、发酵收率、纯化成本、专利自由实施、产能利用率" />
+        </outline>
+        <outline text="精准发酵蛋白">
+          <outline text="菌株→中试放大→蛋白纯化→营养应用" />
+          <outline text="法人身份、self-GRAS依据、过敏原、成本曲线、合资签约" />
+        </outline>
+        <outline text="运动营养">
+          <outline text="配方研发→乳蛋白/能量胶→运动渠道" />
+          <outline text="第三方功效证据、复购、获客成本、毛利与渠道库存" />
+        </outline>
+        <outline text="特医食品">
+          <outline text="临床需求→配方/临床→注册→生产→医院渠道" />
+          <outline text="注册证、临床证据、生产许可、处方场景与销售合规" />
+        </outline>
+        <outline text="奶源与智慧牧场">
+          <outline text="饲草→育种→养殖→原奶→乳品加工" />
+          <outline text="奶价、饲料成本、牛群生产率、牧场现金流与生物资产估值" />
+        </outline>
+        <outline text="宠物健康">
+          <outline text="宠物诊疗→肠道健康→营养产品" />
+          <outline text="项目已退出的证据、门店效率、专业人员资质、业务协同" />
+        </outline>
+        <outline text="功能食品与益生菌">
+          <outline text="菌株/原料→配方→量产→消费场景" />
+          <outline text="菌株证据、活菌稳定性、食品与保健食品声称边界" />
+        </outline>
+        <outline text="乳品深加工">
+          <outline text="原奶→分离→蛋白/脂肪→高价值配料" />
+          <outline text="原料供应、产品质量标准、客户认证、投资回报" />
+        </outline>
+        <outline text="供应链与冷链">
+          <outline text="干线→支线→冷链→门店" />
+          <outline text="法人及股权、运输资质、温控达标率、客户集中度" />
+        </outline>
+        <outline text="包装与数智化">
+          <outline text="包装材料→智能制造→检测→渠道数据" />
+          <outline text="食品接触材料合规、投资回报、系统集成与数据质量" />
+        </outline>
+        <outline text="银发营养">
+          <outline text="吞咽/营养需求→配方→服务" />
+          <outline text="人群定位、临床支持、产品监管类别" />
+        </outline>
+        <outline text="畜牧保健与饲料">
+          <outline text="饲料→添加剂→动物保健→牧场" />
+          <outline text="产品批准、兽药和饲料边界、效果与成本" />
+        </outline>
+        <outline text="ESG与资源循环">
+          <outline text="养殖排放→节能→供应链减碳" />
+          <outline text="可审计排放边界、减排成本、第三方认证" />
+        </outline>
+      </outline>
+      <outline text="07_政策与监管" />
+      <outline text="08_核验与下载清单">
+        <outline text="D01 2025年度报告｜待下载" />
+        <outline text="D02 2026中期报告｜待下载" />
+        <outline text="D03 2024年度报告｜待下载" />
+        <outline text="D04 最新可持续发展报告｜待下载" />
+        <outline text="D05 管理人登记与基金备案结果｜待下载" />
+        <outline text="D06 现代牧业最新年报｜待下载" />
+        <outline text="D07 中国圣牧最新年报｜待下载" />
+        <outline text="D08 迈胜A轮融资官方公告｜待下载" />
+        <outline text="D09 虹摹融资及HMO获批公告｜待下载" />
+        <outline text="D10 特康瑞产品注册信息｜待下载" />
+        <outline text="D11 AG法人识别和GRAS依据｜待下载" />
+        <outline text="D12 弈柯莱及合生科技投资公告｜待下载" />
+        <outline text="D13 十五五规划建议原文｜待下载" />
+        <outline text="D14 消费品供需适配性实施方案｜待下载" />
+        <outline text="D15 HMO批准及适用范围｜待下载" />
+        <outline text="D16 特医食品注册管理规则｜待下载" />
+        <outline text="D17 行业规模与竞争数据原始出处｜待下载" />
+      </outline>
+    </outline>
+  </body>
+</opml>
